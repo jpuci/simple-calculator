@@ -1,2 +1,2 @@
 # simple-calculator
-Simple calculator to plot basic functions.
+Simple calculator to plot basic functions. Made with tkinter in Python.
